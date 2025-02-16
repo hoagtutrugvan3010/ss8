@@ -1,0 +1,45 @@
+h5 {
+    font-size: 3cap;
+    border-bottom: 3px solid #F89E9E;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    opacity: 0.5;
+}
+.titlebig {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    opacity: 0.75;
+}
+.vien  {
+    border-right: 1px solid black;
+}
+img {
+    border-radius: 10px;
+}
+button {
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FFFF;
+    border: 2px solid #F89E9E;
+    color: #F89E9E;
+}
+.underline {
+    display: inline-block;
+    border-bottom: 4px solid #F89E9E;
+    padding-bottom: 15px; 
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-weight: 300;
+    font-size: 3cap;
+    opacity: 0.75;
+    
+}
